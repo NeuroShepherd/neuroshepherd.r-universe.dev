@@ -3,4 +3,8 @@
         "package": "gradecast",
         "url": "https://github.com/NeuroShepherd/gradecast"
     }
+    {
+        "package": "ordinalsimr",
+        "url": "https://github.com/NeuroShepherd/ordinalsimr"
+    }
 ]
